@@ -1,3 +1,12 @@
 #message {
   display: none;
+  background-image: url("https://i.pinimg.com/474x/47/b5/67/47b567ff37393b5c564cbe1186e90662--vintage-paper-background-old-paper-texture.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 400px;
+  margin: 20px 50px 0 50px;
+  height: 400px;
+  padding: 30px;
+  box-shadow: 10px 10px 20px;
+  font-size: 24px;
+  font-family: cursive;
 }
